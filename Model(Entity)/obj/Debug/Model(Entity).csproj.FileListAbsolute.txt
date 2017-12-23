@@ -1,0 +1,10 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171218CRUDOperations\Model(Entity)\bin\Debug\Model(Entity).dll.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171218CRUDOperations\Model(Entity)\bin\Debug\Model(Entity).dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171218CRUDOperations\Model(Entity)\bin\Debug\Model(Entity).pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171218CRUDOperations\Model(Entity)\bin\Debug\EntityFramework.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171218CRUDOperations\Model(Entity)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171218CRUDOperations\Model(Entity)\bin\Debug\EntityFramework.xml
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171218CRUDOperations\Model(Entity)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171218CRUDOperations\Model(Entity)\obj\Debug\Model(Entity).csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171218CRUDOperations\Model(Entity)\obj\Debug\Model(Entity).dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171218CRUDOperations\Model(Entity)\obj\Debug\Model(Entity).pdb
